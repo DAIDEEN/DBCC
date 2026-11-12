@@ -1,0 +1,3243 @@
+[
+  {
+    "id": "202105-Enhance-1",
+    "image": "202105-Enhance-1.png",
+    "mask": "202105-Enhance-1_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-24",
+    "image": "202105-Enhance-24.png",
+    "mask": "202105-Enhance-24_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-25",
+    "image": "202105-Enhance-25.png",
+    "mask": "202105-Enhance-25_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-30",
+    "image": "202105-Enhance-30.png",
+    "mask": "202105-Enhance-30_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-32",
+    "image": "202105-Enhance-32.png",
+    "mask": "202105-Enhance-32_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-33",
+    "image": "202105-Enhance-33.png",
+    "mask": "202105-Enhance-33_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-38",
+    "image": "202105-Enhance-38.png",
+    "mask": "202105-Enhance-38_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-41",
+    "image": "202105-Enhance-41.png",
+    "mask": "202105-Enhance-41_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-44",
+    "image": "202105-Enhance-44.png",
+    "mask": "202105-Enhance-44_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-47",
+    "image": "202105-Enhance-47.png",
+    "mask": "202105-Enhance-47_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-48",
+    "image": "202105-Enhance-48.png",
+    "mask": "202105-Enhance-48_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-50",
+    "image": "202105-Enhance-50.png",
+    "mask": "202105-Enhance-50_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-51",
+    "image": "202105-Enhance-51.png",
+    "mask": "202105-Enhance-51_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-54",
+    "image": "202105-Enhance-54.png",
+    "mask": "202105-Enhance-54_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "202105-Enhance-56",
+    "image": "202105-Enhance-56.png",
+    "mask": "202105-Enhance-56_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "20210725-S3-1",
+    "image": "20210725-S3-1.png",
+    "mask": "20210725-S3-1_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-101",
+    "image": "20210725-S3-101.png",
+    "mask": "20210725-S3-101_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-151",
+    "image": "20210725-S3-151.png",
+    "mask": "20210725-S3-151_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-201",
+    "image": "20210725-S3-201.png",
+    "mask": "20210725-S3-201_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-251",
+    "image": "20210725-S3-251.png",
+    "mask": "20210725-S3-251_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-301",
+    "image": "20210725-S3-301.png",
+    "mask": "20210725-S3-301_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-401",
+    "image": "20210725-S3-401.png",
+    "mask": "20210725-S3-401_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-451",
+    "image": "20210725-S3-451.png",
+    "mask": "20210725-S3-451_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-501",
+    "image": "20210725-S3-501.png",
+    "mask": "20210725-S3-501_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S3-51",
+    "image": "20210725-S3-51.png",
+    "mask": "20210725-S3-51_pixels0.png",
+    "fold": 2,
+    "group": "a4f351e9074a"
+  },
+  {
+    "id": "20210725-S4-1",
+    "image": "20210725-S4-1.png",
+    "mask": "20210725-S4-1_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-1001",
+    "image": "20210725-S4-1001.png",
+    "mask": "20210725-S4-1001_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-1201",
+    "image": "20210725-S4-1201.png",
+    "mask": "20210725-S4-1201_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-1401",
+    "image": "20210725-S4-1401.png",
+    "mask": "20210725-S4-1401_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-1601",
+    "image": "20210725-S4-1601.png",
+    "mask": "20210725-S4-1601_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-1801",
+    "image": "20210725-S4-1801.png",
+    "mask": "20210725-S4-1801_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-2001",
+    "image": "20210725-S4-2001.png",
+    "mask": "20210725-S4-2001_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-201",
+    "image": "20210725-S4-201.png",
+    "mask": "20210725-S4-201_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-401",
+    "image": "20210725-S4-401.png",
+    "mask": "20210725-S4-401_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-601",
+    "image": "20210725-S4-601.png",
+    "mask": "20210725-S4-601_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S4-801",
+    "image": "20210725-S4-801.png",
+    "mask": "20210725-S4-801_pixels0.png",
+    "fold": 1,
+    "group": "5f5058502b84"
+  },
+  {
+    "id": "20210725-S5-1",
+    "image": "20210725-S5-1.png",
+    "mask": "20210725-S5-1_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-1201",
+    "image": "20210725-S5-1201.png",
+    "mask": "20210725-S5-1201_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-1401",
+    "image": "20210725-S5-1401.png",
+    "mask": "20210725-S5-1401_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-1601",
+    "image": "20210725-S5-1601.png",
+    "mask": "20210725-S5-1601_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-1801",
+    "image": "20210725-S5-1801.png",
+    "mask": "20210725-S5-1801_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-2001",
+    "image": "20210725-S5-2001.png",
+    "mask": "20210725-S5-2001_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-2401",
+    "image": "20210725-S5-2401.png",
+    "mask": "20210725-S5-2401_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-401",
+    "image": "20210725-S5-401.png",
+    "mask": "20210725-S5-401_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-601",
+    "image": "20210725-S5-601.png",
+    "mask": "20210725-S5-601_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "20210725-S5-801",
+    "image": "20210725-S5-801.png",
+    "mask": "20210725-S5-801_pixels0.png",
+    "fold": 3,
+    "group": "0e841940783c"
+  },
+  {
+    "id": "211_HD_1101",
+    "image": "211_HD_1101.png",
+    "mask": "211_HD_1101_pixels0.png",
+    "fold": 1,
+    "group": "9b1acd863905"
+  },
+  {
+    "id": "211_HD_126",
+    "image": "211_HD_126.png",
+    "mask": "211_HD_126_pixels0.png",
+    "fold": 4,
+    "group": "6e884c109c8b"
+  },
+  {
+    "id": "211_HD_1301",
+    "image": "211_HD_1301.png",
+    "mask": "211_HD_1301_pixels0.png",
+    "fold": 2,
+    "group": "238b128af3e4"
+  },
+  {
+    "id": "211_HD_2151",
+    "image": "211_HD_2151.png",
+    "mask": "211_HD_2151_pixels0.png",
+    "fold": 4,
+    "group": "5242c68c2e59"
+  },
+  {
+    "id": "Best_MWIR_PTZ_1351",
+    "image": "Best_MWIR_PTZ_1351.png",
+    "mask": "Best_MWIR_PTZ_1351_pixels0.png",
+    "fold": 2,
+    "group": "238b128af3e4"
+  },
+  {
+    "id": "foo-00008",
+    "image": "foo-00008.png",
+    "mask": "foo-00008_pixels0.png",
+    "fold": 2,
+    "group": "042ae9a8a211"
+  },
+  {
+    "id": "foo-00103",
+    "image": "foo-00103.png",
+    "mask": "foo-00103_pixels0.png",
+    "fold": 1,
+    "group": "cbd745783a90"
+  },
+  {
+    "id": "GAODE_6",
+    "image": "GAODE_6.png",
+    "mask": "GAODE_6_pixels0.png",
+    "fold": 4,
+    "group": "319d4bd64f52"
+  },
+  {
+    "id": "iraytek-1",
+    "image": "iraytek-1.png",
+    "mask": "iraytek-1_pixels0.png",
+    "fold": 1,
+    "group": "a83a066757d3"
+  },
+  {
+    "id": "iraytek-10",
+    "image": "iraytek-10.png",
+    "mask": "iraytek-10_pixels0.png",
+    "fold": 3,
+    "group": "ddfe1aa7f1d0"
+  },
+  {
+    "id": "iraytek-100",
+    "image": "iraytek-100.png",
+    "mask": "iraytek-100_pixels0.png",
+    "fold": 4,
+    "group": "023098f52b02"
+  },
+  {
+    "id": "iraytek-101",
+    "image": "iraytek-101.png",
+    "mask": "iraytek-101_pixels0.png",
+    "fold": 0,
+    "group": "c6c169a01e20"
+  },
+  {
+    "id": "iraytek-102",
+    "image": "iraytek-102.png",
+    "mask": "iraytek-102_pixels0.png",
+    "fold": 3,
+    "group": "e76aa210a11c"
+  },
+  {
+    "id": "iraytek-103",
+    "image": "iraytek-103.png",
+    "mask": "iraytek-103_pixels0.png",
+    "fold": 3,
+    "group": "2cc81eacc695"
+  },
+  {
+    "id": "iraytek-104",
+    "image": "iraytek-104.png",
+    "mask": "iraytek-104_pixels0.png",
+    "fold": 2,
+    "group": "e88972f321f3"
+  },
+  {
+    "id": "iraytek-105",
+    "image": "iraytek-105.png",
+    "mask": "iraytek-105_pixels0.png",
+    "fold": 3,
+    "group": "cc44b3789077"
+  },
+  {
+    "id": "iraytek-107",
+    "image": "iraytek-107.png",
+    "mask": "iraytek-107_pixels0.png",
+    "fold": 2,
+    "group": "7862f4cb8986"
+  },
+  {
+    "id": "iraytek-108",
+    "image": "iraytek-108.png",
+    "mask": "iraytek-108_pixels0.png",
+    "fold": 3,
+    "group": "0bbbbde0f8f4"
+  },
+  {
+    "id": "iraytek-109",
+    "image": "iraytek-109.png",
+    "mask": "iraytek-109_pixels0.png",
+    "fold": 3,
+    "group": "ebb8dec73d9a"
+  },
+  {
+    "id": "iraytek-11",
+    "image": "iraytek-11.png",
+    "mask": "iraytek-11_pixels0.png",
+    "fold": 4,
+    "group": "e6456ec27ca4"
+  },
+  {
+    "id": "iraytek-110",
+    "image": "iraytek-110.png",
+    "mask": "iraytek-110_pixels0.png",
+    "fold": 4,
+    "group": "fa206e0bbc53"
+  },
+  {
+    "id": "iraytek-112",
+    "image": "iraytek-112.png",
+    "mask": "iraytek-112_pixels0.png",
+    "fold": 3,
+    "group": "fef61a751d19"
+  },
+  {
+    "id": "iraytek-113",
+    "image": "iraytek-113.png",
+    "mask": "iraytek-113_pixels0.png",
+    "fold": 1,
+    "group": "4b929e9cffe2"
+  },
+  {
+    "id": "iraytek-115",
+    "image": "iraytek-115.png",
+    "mask": "iraytek-115_pixels0.png",
+    "fold": 2,
+    "group": "4ba6b01b53d8"
+  },
+  {
+    "id": "iraytek-116",
+    "image": "iraytek-116.png",
+    "mask": "iraytek-116_pixels0.png",
+    "fold": 1,
+    "group": "b563531a8735"
+  },
+  {
+    "id": "iraytek-117",
+    "image": "iraytek-117.png",
+    "mask": "iraytek-117_pixels0.png",
+    "fold": 0,
+    "group": "8f15016098ec"
+  },
+  {
+    "id": "iraytek-118",
+    "image": "iraytek-118.png",
+    "mask": "iraytek-118_pixels0.png",
+    "fold": 3,
+    "group": "d1874a4c00bc"
+  },
+  {
+    "id": "iraytek-119",
+    "image": "iraytek-119.png",
+    "mask": "iraytek-119_pixels0.png",
+    "fold": 3,
+    "group": "58e91de5c3ab"
+  },
+  {
+    "id": "iraytek-12",
+    "image": "iraytek-12.png",
+    "mask": "iraytek-12_pixels0.png",
+    "fold": 2,
+    "group": "eb056af02945"
+  },
+  {
+    "id": "iraytek-120",
+    "image": "iraytek-120.png",
+    "mask": "iraytek-120_pixels0.png",
+    "fold": 1,
+    "group": "0d4607171506"
+  },
+  {
+    "id": "iraytek-121",
+    "image": "iraytek-121.png",
+    "mask": "iraytek-121_pixels0.png",
+    "fold": 4,
+    "group": "8acf692c39f4"
+  },
+  {
+    "id": "iraytek-123",
+    "image": "iraytek-123.png",
+    "mask": "iraytek-123_pixels0.png",
+    "fold": 0,
+    "group": "96f5eb72b036"
+  },
+  {
+    "id": "iraytek-126",
+    "image": "iraytek-126.png",
+    "mask": "iraytek-126_pixels0.png",
+    "fold": 1,
+    "group": "6696bcd1452a"
+  },
+  {
+    "id": "iraytek-130",
+    "image": "iraytek-130.png",
+    "mask": "iraytek-130_pixels0.png",
+    "fold": 4,
+    "group": "ba19ad009839"
+  },
+  {
+    "id": "iraytek-131",
+    "image": "iraytek-131.png",
+    "mask": "iraytek-131_pixels0.png",
+    "fold": 0,
+    "group": "14f8e0ac3f2d"
+  },
+  {
+    "id": "iraytek-132",
+    "image": "iraytek-132.png",
+    "mask": "iraytek-132_pixels0.png",
+    "fold": 0,
+    "group": "bc5ddb9d113f"
+  },
+  {
+    "id": "iraytek-135",
+    "image": "iraytek-135.png",
+    "mask": "iraytek-135_pixels0.png",
+    "fold": 3,
+    "group": "73c8cbc1d4a6"
+  },
+  {
+    "id": "iraytek-136",
+    "image": "iraytek-136.png",
+    "mask": "iraytek-136_pixels0.png",
+    "fold": 2,
+    "group": "6860b1baf678"
+  },
+  {
+    "id": "iraytek-139",
+    "image": "iraytek-139.png",
+    "mask": "iraytek-139_pixels0.png",
+    "fold": 3,
+    "group": "1be78f2534a0"
+  },
+  {
+    "id": "iraytek-14",
+    "image": "iraytek-14.png",
+    "mask": "iraytek-14_pixels0.png",
+    "fold": 1,
+    "group": "18eead67e542"
+  },
+  {
+    "id": "iraytek-142",
+    "image": "iraytek-142.png",
+    "mask": "iraytek-142_pixels0.png",
+    "fold": 3,
+    "group": "09da4fc01bbb"
+  },
+  {
+    "id": "iraytek-145",
+    "image": "iraytek-145.png",
+    "mask": "iraytek-145_pixels0.png",
+    "fold": 0,
+    "group": "605c184af648"
+  },
+  {
+    "id": "iraytek-147",
+    "image": "iraytek-147.png",
+    "mask": "iraytek-147_pixels0.png",
+    "fold": 4,
+    "group": "126bede55cf0"
+  },
+  {
+    "id": "iraytek-149",
+    "image": "iraytek-149.png",
+    "mask": "iraytek-149_pixels0.png",
+    "fold": 2,
+    "group": "f2c07ac3f22b"
+  },
+  {
+    "id": "iraytek-150",
+    "image": "iraytek-150.png",
+    "mask": "iraytek-150_pixels0.png",
+    "fold": 1,
+    "group": "c99d2abeca70"
+  },
+  {
+    "id": "iraytek-158",
+    "image": "iraytek-158.png",
+    "mask": "iraytek-158_pixels0.png",
+    "fold": 0,
+    "group": "5f63b8c85319"
+  },
+  {
+    "id": "iraytek-16",
+    "image": "iraytek-16.png",
+    "mask": "iraytek-16_pixels0.png",
+    "fold": 0,
+    "group": "607c785a0954"
+  },
+  {
+    "id": "iraytek-165",
+    "image": "iraytek-165.png",
+    "mask": "iraytek-165_pixels0.png",
+    "fold": 4,
+    "group": "1afd854fa714"
+  },
+  {
+    "id": "iraytek-167",
+    "image": "iraytek-167.png",
+    "mask": "iraytek-167_pixels0.png",
+    "fold": 4,
+    "group": "4368b867081d"
+  },
+  {
+    "id": "iraytek-17",
+    "image": "iraytek-17.png",
+    "mask": "iraytek-17_pixels0.png",
+    "fold": 4,
+    "group": "3699aa873f59"
+  },
+  {
+    "id": "iraytek-170",
+    "image": "iraytek-170.png",
+    "mask": "iraytek-170_pixels0.png",
+    "fold": 0,
+    "group": "6d4a0112dd2f"
+  },
+  {
+    "id": "iraytek-171",
+    "image": "iraytek-171.png",
+    "mask": "iraytek-171_pixels0.png",
+    "fold": 4,
+    "group": "22ae2a7b9e2c"
+  },
+  {
+    "id": "iraytek-172",
+    "image": "iraytek-172.png",
+    "mask": "iraytek-172_pixels0.png",
+    "fold": 3,
+    "group": "f078eb26a7b0"
+  },
+  {
+    "id": "iraytek-173",
+    "image": "iraytek-173.png",
+    "mask": "iraytek-173_pixels0.png",
+    "fold": 1,
+    "group": "00b138b8d862"
+  },
+  {
+    "id": "iraytek-175",
+    "image": "iraytek-175.png",
+    "mask": "iraytek-175_pixels0.png",
+    "fold": 1,
+    "group": "203ece6eb68b"
+  },
+  {
+    "id": "iraytek-176",
+    "image": "iraytek-176.png",
+    "mask": "iraytek-176_pixels0.png",
+    "fold": 4,
+    "group": "5e06541f1901"
+  },
+  {
+    "id": "iraytek-177",
+    "image": "iraytek-177.png",
+    "mask": "iraytek-177_pixels0.png",
+    "fold": 1,
+    "group": "9a1b283760c8"
+  },
+  {
+    "id": "iraytek-178",
+    "image": "iraytek-178.png",
+    "mask": "iraytek-178_pixels0.png",
+    "fold": 1,
+    "group": "bb5afdf3dda1"
+  },
+  {
+    "id": "iraytek-18",
+    "image": "iraytek-18.png",
+    "mask": "iraytek-18_pixels0.png",
+    "fold": 3,
+    "group": "bc5d00b81ae9"
+  },
+  {
+    "id": "iraytek-180",
+    "image": "iraytek-180.png",
+    "mask": "iraytek-180_pixels0.png",
+    "fold": 4,
+    "group": "c66dc4a305c5"
+  },
+  {
+    "id": "iraytek-181",
+    "image": "iraytek-181.png",
+    "mask": "iraytek-181_pixels0.png",
+    "fold": 2,
+    "group": "35abb13c3640"
+  },
+  {
+    "id": "iraytek-182",
+    "image": "iraytek-182.png",
+    "mask": "iraytek-182_pixels0.png",
+    "fold": 1,
+    "group": "3189f68a06cc"
+  },
+  {
+    "id": "iraytek-183",
+    "image": "iraytek-183.png",
+    "mask": "iraytek-183_pixels0.png",
+    "fold": 4,
+    "group": "7dc225322509"
+  },
+  {
+    "id": "iraytek-184",
+    "image": "iraytek-184.png",
+    "mask": "iraytek-184_pixels0.png",
+    "fold": 2,
+    "group": "c7ba041cd01c"
+  },
+  {
+    "id": "iraytek-185",
+    "image": "iraytek-185.png",
+    "mask": "iraytek-185_pixels0.png",
+    "fold": 2,
+    "group": "2276ffb5cb8e"
+  },
+  {
+    "id": "iraytek-186",
+    "image": "iraytek-186.png",
+    "mask": "iraytek-186_pixels0.png",
+    "fold": 2,
+    "group": "ed83bb847263"
+  },
+  {
+    "id": "iraytek-188",
+    "image": "iraytek-188.png",
+    "mask": "iraytek-188_pixels0.png",
+    "fold": 0,
+    "group": "0ff55835c2c8"
+  },
+  {
+    "id": "iraytek-189",
+    "image": "iraytek-189.png",
+    "mask": "iraytek-189_pixels0.png",
+    "fold": 2,
+    "group": "88378ab2b4d2"
+  },
+  {
+    "id": "iraytek-19",
+    "image": "iraytek-19.png",
+    "mask": "iraytek-19_pixels0.png",
+    "fold": 1,
+    "group": "5f8f6d59494d"
+  },
+  {
+    "id": "iraytek-190",
+    "image": "iraytek-190.png",
+    "mask": "iraytek-190_pixels0.png",
+    "fold": 2,
+    "group": "43f8a30ec960"
+  },
+  {
+    "id": "iraytek-192",
+    "image": "iraytek-192.png",
+    "mask": "iraytek-192_pixels0.png",
+    "fold": 0,
+    "group": "d6cb8db1f42c"
+  },
+  {
+    "id": "iraytek-193",
+    "image": "iraytek-193.png",
+    "mask": "iraytek-193_pixels0.png",
+    "fold": 3,
+    "group": "04e90cde129b"
+  },
+  {
+    "id": "iraytek-194",
+    "image": "iraytek-194.png",
+    "mask": "iraytek-194_pixels0.png",
+    "fold": 3,
+    "group": "0a992f9f5564"
+  },
+  {
+    "id": "iraytek-195",
+    "image": "iraytek-195.png",
+    "mask": "iraytek-195_pixels0.png",
+    "fold": 2,
+    "group": "2dc56b1877b5"
+  },
+  {
+    "id": "iraytek-196",
+    "image": "iraytek-196.png",
+    "mask": "iraytek-196_pixels0.png",
+    "fold": 1,
+    "group": "71dfebc9748b"
+  },
+  {
+    "id": "iraytek-197",
+    "image": "iraytek-197.png",
+    "mask": "iraytek-197_pixels0.png",
+    "fold": 2,
+    "group": "8eefde5b8a86"
+  },
+  {
+    "id": "iraytek-199",
+    "image": "iraytek-199.png",
+    "mask": "iraytek-199_pixels0.png",
+    "fold": 0,
+    "group": "3a98522036c9"
+  },
+  {
+    "id": "iraytek-2",
+    "image": "iraytek-2.png",
+    "mask": "iraytek-2_pixels0.png",
+    "fold": 0,
+    "group": "63ad1efc0f5a"
+  },
+  {
+    "id": "iraytek-20",
+    "image": "iraytek-20.png",
+    "mask": "iraytek-20_pixels0.png",
+    "fold": 4,
+    "group": "bd8a730d8e53"
+  },
+  {
+    "id": "iraytek-200",
+    "image": "iraytek-200.png",
+    "mask": "iraytek-200_pixels0.png",
+    "fold": 2,
+    "group": "c4f6c9abdf9a"
+  },
+  {
+    "id": "iraytek-201",
+    "image": "iraytek-201.png",
+    "mask": "iraytek-201_pixels0.png",
+    "fold": 2,
+    "group": "6b98e643c9ae"
+  },
+  {
+    "id": "iraytek-203",
+    "image": "iraytek-203.png",
+    "mask": "iraytek-203_pixels0.png",
+    "fold": 4,
+    "group": "af0dda718a2e"
+  },
+  {
+    "id": "iraytek-209",
+    "image": "iraytek-209.png",
+    "mask": "iraytek-209_pixels0.png",
+    "fold": 3,
+    "group": "43279bd17ee9"
+  },
+  {
+    "id": "iraytek-21",
+    "image": "iraytek-21.png",
+    "mask": "iraytek-21_pixels0.png",
+    "fold": 3,
+    "group": "c457b67aa43e"
+  },
+  {
+    "id": "iraytek-211",
+    "image": "iraytek-211.png",
+    "mask": "iraytek-211_pixels0.png",
+    "fold": 1,
+    "group": "c9a47a03507b"
+  },
+  {
+    "id": "iraytek-218",
+    "image": "iraytek-218.png",
+    "mask": "iraytek-218_pixels0.png",
+    "fold": 3,
+    "group": "c3088666916b"
+  },
+  {
+    "id": "iraytek-22",
+    "image": "iraytek-22.png",
+    "mask": "iraytek-22_pixels0.png",
+    "fold": 1,
+    "group": "180c1acc4933"
+  },
+  {
+    "id": "iraytek-222",
+    "image": "iraytek-222.png",
+    "mask": "iraytek-222_pixels0.png",
+    "fold": 1,
+    "group": "b78b5b8a1528"
+  },
+  {
+    "id": "iraytek-225",
+    "image": "iraytek-225.png",
+    "mask": "iraytek-225_pixels0.png",
+    "fold": 0,
+    "group": "d5c5d1bda24e"
+  },
+  {
+    "id": "iraytek-227",
+    "image": "iraytek-227.png",
+    "mask": "iraytek-227_pixels0.png",
+    "fold": 4,
+    "group": "3bf87755f0d5"
+  },
+  {
+    "id": "iraytek-229",
+    "image": "iraytek-229.png",
+    "mask": "iraytek-229_pixels0.png",
+    "fold": 0,
+    "group": "ba4fe8b9a033"
+  },
+  {
+    "id": "iraytek-23",
+    "image": "iraytek-23.png",
+    "mask": "iraytek-23_pixels0.png",
+    "fold": 2,
+    "group": "5d1d398a09f2"
+  },
+  {
+    "id": "iraytek-243",
+    "image": "iraytek-243.png",
+    "mask": "iraytek-243_pixels0.png",
+    "fold": 4,
+    "group": "b281f60f39c0"
+  },
+  {
+    "id": "iraytek-25",
+    "image": "iraytek-25.png",
+    "mask": "iraytek-25_pixels0.png",
+    "fold": 4,
+    "group": "c7b20ea03c4e"
+  },
+  {
+    "id": "iraytek-252",
+    "image": "iraytek-252.png",
+    "mask": "iraytek-252_pixels0.png",
+    "fold": 4,
+    "group": "9682156a30b0"
+  },
+  {
+    "id": "iraytek-257",
+    "image": "iraytek-257.png",
+    "mask": "iraytek-257_pixels0.png",
+    "fold": 2,
+    "group": "a6a84057ee27"
+  },
+  {
+    "id": "iraytek-26",
+    "image": "iraytek-26.png",
+    "mask": "iraytek-26_pixels0.png",
+    "fold": 1,
+    "group": "b965b87ece10"
+  },
+  {
+    "id": "iraytek-262",
+    "image": "iraytek-262.png",
+    "mask": "iraytek-262_pixels0.png",
+    "fold": 3,
+    "group": "3528501aa593"
+  },
+  {
+    "id": "iraytek-265",
+    "image": "iraytek-265.png",
+    "mask": "iraytek-265_pixels0.png",
+    "fold": 4,
+    "group": "2da4ef908978"
+  },
+  {
+    "id": "iraytek-266",
+    "image": "iraytek-266.png",
+    "mask": "iraytek-266_pixels0.png",
+    "fold": 3,
+    "group": "f5fa02e78e41"
+  },
+  {
+    "id": "iraytek-267",
+    "image": "iraytek-267.png",
+    "mask": "iraytek-267_pixels0.png",
+    "fold": 4,
+    "group": "42507b958386"
+  },
+  {
+    "id": "iraytek-27",
+    "image": "iraytek-27.png",
+    "mask": "iraytek-27_pixels0.png",
+    "fold": 1,
+    "group": "7c40b6fababe"
+  },
+  {
+    "id": "iraytek-28",
+    "image": "iraytek-28.png",
+    "mask": "iraytek-28_pixels0.png",
+    "fold": 1,
+    "group": "8cb62a0b9832"
+  },
+  {
+    "id": "iraytek-280",
+    "image": "iraytek-280.png",
+    "mask": "iraytek-280_pixels0.png",
+    "fold": 2,
+    "group": "5376a911e033"
+  },
+  {
+    "id": "iraytek-282",
+    "image": "iraytek-282.png",
+    "mask": "iraytek-282_pixels0.png",
+    "fold": 4,
+    "group": "23d24168408f"
+  },
+  {
+    "id": "iraytek-290",
+    "image": "iraytek-290.png",
+    "mask": "iraytek-290_pixels0.png",
+    "fold": 4,
+    "group": "29638b676e62"
+  },
+  {
+    "id": "iraytek-291",
+    "image": "iraytek-291.png",
+    "mask": "iraytek-291_pixels0.png",
+    "fold": 4,
+    "group": "ed21105d38ec"
+  },
+  {
+    "id": "iraytek-292",
+    "image": "iraytek-292.png",
+    "mask": "iraytek-292_pixels0.png",
+    "fold": 0,
+    "group": "99799617e2c1"
+  },
+  {
+    "id": "iraytek-296",
+    "image": "iraytek-296.png",
+    "mask": "iraytek-296_pixels0.png",
+    "fold": 2,
+    "group": "636721790c60"
+  },
+  {
+    "id": "iraytek-299",
+    "image": "iraytek-299.png",
+    "mask": "iraytek-299_pixels0.png",
+    "fold": 3,
+    "group": "e2f323a569cf"
+  },
+  {
+    "id": "iraytek-3",
+    "image": "iraytek-3.png",
+    "mask": "iraytek-3_pixels0.png",
+    "fold": 1,
+    "group": "cfecc43bb565"
+  },
+  {
+    "id": "iraytek-30",
+    "image": "iraytek-30.png",
+    "mask": "iraytek-30_pixels0.png",
+    "fold": 0,
+    "group": "b68ebb352fb3"
+  },
+  {
+    "id": "iraytek-300",
+    "image": "iraytek-300.png",
+    "mask": "iraytek-300_pixels0.png",
+    "fold": 0,
+    "group": "df3a69f873ff"
+  },
+  {
+    "id": "iraytek-302",
+    "image": "iraytek-302.png",
+    "mask": "iraytek-302_pixels0.png",
+    "fold": 0,
+    "group": "9808a30510ee"
+  },
+  {
+    "id": "iraytek-303",
+    "image": "iraytek-303.png",
+    "mask": "iraytek-303_pixels0.png",
+    "fold": 2,
+    "group": "717f7268b9db"
+  },
+  {
+    "id": "iraytek-304",
+    "image": "iraytek-304.png",
+    "mask": "iraytek-304_pixels0.png",
+    "fold": 1,
+    "group": "a9688544baf5"
+  },
+  {
+    "id": "iraytek-305",
+    "image": "iraytek-305.png",
+    "mask": "iraytek-305_pixels0.png",
+    "fold": 3,
+    "group": "2e4c69975057"
+  },
+  {
+    "id": "iraytek-31",
+    "image": "iraytek-31.png",
+    "mask": "iraytek-31_pixels0.png",
+    "fold": 4,
+    "group": "8387c223debf"
+  },
+  {
+    "id": "iraytek-319",
+    "image": "iraytek-319.png",
+    "mask": "iraytek-319_pixels0.png",
+    "fold": 2,
+    "group": "91925760d5bc"
+  },
+  {
+    "id": "iraytek-32",
+    "image": "iraytek-32.png",
+    "mask": "iraytek-32_pixels0.png",
+    "fold": 2,
+    "group": "75910c8ca861"
+  },
+  {
+    "id": "iraytek-320",
+    "image": "iraytek-320.png",
+    "mask": "iraytek-320_pixels0.png",
+    "fold": 0,
+    "group": "55764ff49615"
+  },
+  {
+    "id": "iraytek-321",
+    "image": "iraytek-321.png",
+    "mask": "iraytek-321_pixels0.png",
+    "fold": 3,
+    "group": "60f42c239486"
+  },
+  {
+    "id": "iraytek-33",
+    "image": "iraytek-33.png",
+    "mask": "iraytek-33_pixels0.png",
+    "fold": 3,
+    "group": "c2d7ec1b7e9a"
+  },
+  {
+    "id": "iraytek-34",
+    "image": "iraytek-34.png",
+    "mask": "iraytek-34_pixels0.png",
+    "fold": 4,
+    "group": "179092434d3b"
+  },
+  {
+    "id": "iraytek-345",
+    "image": "iraytek-345.png",
+    "mask": "iraytek-345_pixels0.png",
+    "fold": 2,
+    "group": "eb48a559ca4a"
+  },
+  {
+    "id": "iraytek-35",
+    "image": "iraytek-35.png",
+    "mask": "iraytek-35_pixels0.png",
+    "fold": 2,
+    "group": "673ce1ef3fdf"
+  },
+  {
+    "id": "iraytek-352",
+    "image": "iraytek-352.png",
+    "mask": "iraytek-352_pixels0.png",
+    "fold": 0,
+    "group": "566837594c5a"
+  },
+  {
+    "id": "iraytek-353",
+    "image": "iraytek-353.png",
+    "mask": "iraytek-353_pixels0.png",
+    "fold": 3,
+    "group": "e0c6d7dab260"
+  },
+  {
+    "id": "iraytek-354",
+    "image": "iraytek-354.png",
+    "mask": "iraytek-354_pixels0.png",
+    "fold": 2,
+    "group": "f4e06b16e9a1"
+  },
+  {
+    "id": "iraytek-36",
+    "image": "iraytek-36.png",
+    "mask": "iraytek-36_pixels0.png",
+    "fold": 1,
+    "group": "93578fae2dcd"
+  },
+  {
+    "id": "iraytek-361",
+    "image": "iraytek-361.png",
+    "mask": "iraytek-361_pixels0.png",
+    "fold": 2,
+    "group": "4379148e3856"
+  },
+  {
+    "id": "iraytek-366",
+    "image": "iraytek-366.png",
+    "mask": "iraytek-366_pixels0.png",
+    "fold": 4,
+    "group": "2a656563de16"
+  },
+  {
+    "id": "iraytek-368",
+    "image": "iraytek-368.png",
+    "mask": "iraytek-368_pixels0.png",
+    "fold": 4,
+    "group": "fad26912cb7a"
+  },
+  {
+    "id": "iraytek-37",
+    "image": "iraytek-37.png",
+    "mask": "iraytek-37_pixels0.png",
+    "fold": 1,
+    "group": "ab3e89521bc8"
+  },
+  {
+    "id": "iraytek-370",
+    "image": "iraytek-370.png",
+    "mask": "iraytek-370_pixels0.png",
+    "fold": 2,
+    "group": "93bf16c5f1bc"
+  },
+  {
+    "id": "iraytek-371",
+    "image": "iraytek-371.png",
+    "mask": "iraytek-371_pixels0.png",
+    "fold": 3,
+    "group": "0fe6b73bb20d"
+  },
+  {
+    "id": "iraytek-372",
+    "image": "iraytek-372.png",
+    "mask": "iraytek-372_pixels0.png",
+    "fold": 4,
+    "group": "fdb7af0bd89a"
+  },
+  {
+    "id": "iraytek-377",
+    "image": "iraytek-377.png",
+    "mask": "iraytek-377_pixels0.png",
+    "fold": 4,
+    "group": "34a91d9d2759"
+  },
+  {
+    "id": "iraytek-379",
+    "image": "iraytek-379.png",
+    "mask": "iraytek-379_pixels0.png",
+    "fold": 0,
+    "group": "fb808652f2b7"
+  },
+  {
+    "id": "iraytek-38",
+    "image": "iraytek-38.png",
+    "mask": "iraytek-38_pixels0.png",
+    "fold": 4,
+    "group": "ee133d06fdc2"
+  },
+  {
+    "id": "iraytek-381",
+    "image": "iraytek-381.png",
+    "mask": "iraytek-381_pixels0.png",
+    "fold": 3,
+    "group": "5544558638b7"
+  },
+  {
+    "id": "iraytek-384",
+    "image": "iraytek-384.png",
+    "mask": "iraytek-384_pixels0.png",
+    "fold": 1,
+    "group": "e83728a62326"
+  },
+  {
+    "id": "iraytek-385",
+    "image": "iraytek-385.png",
+    "mask": "iraytek-385_pixels0.png",
+    "fold": 4,
+    "group": "3bf87755f0d5"
+  },
+  {
+    "id": "iraytek-386",
+    "image": "iraytek-386.png",
+    "mask": "iraytek-386_pixels0.png",
+    "fold": 4,
+    "group": "4439ae779764"
+  },
+  {
+    "id": "iraytek-387",
+    "image": "iraytek-387.png",
+    "mask": "iraytek-387_pixels0.png",
+    "fold": 3,
+    "group": "57054af9aefc"
+  },
+  {
+    "id": "iraytek-388",
+    "image": "iraytek-388.png",
+    "mask": "iraytek-388_pixels0.png",
+    "fold": 0,
+    "group": "40ac28683c70"
+  },
+  {
+    "id": "iraytek-389",
+    "image": "iraytek-389.png",
+    "mask": "iraytek-389_pixels0.png",
+    "fold": 4,
+    "group": "276269af893c"
+  },
+  {
+    "id": "iraytek-39",
+    "image": "iraytek-39.png",
+    "mask": "iraytek-39_pixels0.png",
+    "fold": 3,
+    "group": "30a97dd204f2"
+  },
+  {
+    "id": "iraytek-390",
+    "image": "iraytek-390.png",
+    "mask": "iraytek-390_pixels0.png",
+    "fold": 4,
+    "group": "87a10ec8e0c9"
+  },
+  {
+    "id": "iraytek-391",
+    "image": "iraytek-391.png",
+    "mask": "iraytek-391_pixels0.png",
+    "fold": 3,
+    "group": "3fe6fbb2b0cc"
+  },
+  {
+    "id": "iraytek-394",
+    "image": "iraytek-394.png",
+    "mask": "iraytek-394_pixels0.png",
+    "fold": 0,
+    "group": "d600cc03b825"
+  },
+  {
+    "id": "iraytek-395",
+    "image": "iraytek-395.png",
+    "mask": "iraytek-395_pixels0.png",
+    "fold": 2,
+    "group": "7fa4eeb9f9d9"
+  },
+  {
+    "id": "iraytek-396",
+    "image": "iraytek-396.png",
+    "mask": "iraytek-396_pixels0.png",
+    "fold": 3,
+    "group": "c12592f56668"
+  },
+  {
+    "id": "iraytek-398",
+    "image": "iraytek-398.png",
+    "mask": "iraytek-398_pixels0.png",
+    "fold": 1,
+    "group": "486a3d400bb7"
+  },
+  {
+    "id": "iraytek-4",
+    "image": "iraytek-4.png",
+    "mask": "iraytek-4_pixels0.png",
+    "fold": 3,
+    "group": "aba8438f8135"
+  },
+  {
+    "id": "iraytek-40",
+    "image": "iraytek-40.png",
+    "mask": "iraytek-40_pixels0.png",
+    "fold": 0,
+    "group": "82be0c7d69d9"
+  },
+  {
+    "id": "iraytek-406",
+    "image": "iraytek-406.png",
+    "mask": "iraytek-406_pixels0.png",
+    "fold": 1,
+    "group": "1cb68576422b"
+  },
+  {
+    "id": "iraytek-407",
+    "image": "iraytek-407.png",
+    "mask": "iraytek-407_pixels0.png",
+    "fold": 4,
+    "group": "6ceca8cb8ca7"
+  },
+  {
+    "id": "iraytek-41",
+    "image": "iraytek-41.png",
+    "mask": "iraytek-41_pixels0.png",
+    "fold": 4,
+    "group": "d4c3f53de4b9"
+  },
+  {
+    "id": "iraytek-412",
+    "image": "iraytek-412.png",
+    "mask": "iraytek-412_pixels0.png",
+    "fold": 1,
+    "group": "c6872bc9f736"
+  },
+  {
+    "id": "iraytek-415",
+    "image": "iraytek-415.png",
+    "mask": "iraytek-415_pixels0.png",
+    "fold": 0,
+    "group": "2d1472be1793"
+  },
+  {
+    "id": "iraytek-417",
+    "image": "iraytek-417.png",
+    "mask": "iraytek-417_pixels0.png",
+    "fold": 1,
+    "group": "5985dabc3651"
+  },
+  {
+    "id": "iraytek-418",
+    "image": "iraytek-418.png",
+    "mask": "iraytek-418_pixels0.png",
+    "fold": 1,
+    "group": "1c5fc507a641"
+  },
+  {
+    "id": "iraytek-42",
+    "image": "iraytek-42.png",
+    "mask": "iraytek-42_pixels0.png",
+    "fold": 4,
+    "group": "12968b8d17f8"
+  },
+  {
+    "id": "iraytek-420",
+    "image": "iraytek-420.png",
+    "mask": "iraytek-420_pixels0.png",
+    "fold": 4,
+    "group": "573ff1a276f6"
+  },
+  {
+    "id": "iraytek-426",
+    "image": "iraytek-426.png",
+    "mask": "iraytek-426_pixels0.png",
+    "fold": 2,
+    "group": "120f8ebe17e5"
+  },
+  {
+    "id": "iraytek-428",
+    "image": "iraytek-428.png",
+    "mask": "iraytek-428_pixels0.png",
+    "fold": 0,
+    "group": "0aef49d144a6"
+  },
+  {
+    "id": "iraytek-43",
+    "image": "iraytek-43.png",
+    "mask": "iraytek-43_pixels0.png",
+    "fold": 2,
+    "group": "e747986afbaa"
+  },
+  {
+    "id": "iraytek-430",
+    "image": "iraytek-430.png",
+    "mask": "iraytek-430_pixels0.png",
+    "fold": 4,
+    "group": "b1aeb2ce80ce"
+  },
+  {
+    "id": "iraytek-433",
+    "image": "iraytek-433.png",
+    "mask": "iraytek-433_pixels0.png",
+    "fold": 2,
+    "group": "195928c924c2"
+  },
+  {
+    "id": "iraytek-434",
+    "image": "iraytek-434.png",
+    "mask": "iraytek-434_pixels0.png",
+    "fold": 0,
+    "group": "edd36dc4f985"
+  },
+  {
+    "id": "iraytek-438",
+    "image": "iraytek-438.png",
+    "mask": "iraytek-438_pixels0.png",
+    "fold": 3,
+    "group": "8a0813cf6850"
+  },
+  {
+    "id": "iraytek-44",
+    "image": "iraytek-44.png",
+    "mask": "iraytek-44_pixels0.png",
+    "fold": 4,
+    "group": "c79e05346499"
+  },
+  {
+    "id": "iraytek-444",
+    "image": "iraytek-444.png",
+    "mask": "iraytek-444_pixels0.png",
+    "fold": 4,
+    "group": "e25836eda4cf"
+  },
+  {
+    "id": "iraytek-445",
+    "image": "iraytek-445.png",
+    "mask": "iraytek-445_pixels0.png",
+    "fold": 4,
+    "group": "6448707d3c78"
+  },
+  {
+    "id": "iraytek-446",
+    "image": "iraytek-446.png",
+    "mask": "iraytek-446_pixels0.png",
+    "fold": 2,
+    "group": "76d789523b42"
+  },
+  {
+    "id": "iraytek-448",
+    "image": "iraytek-448.png",
+    "mask": "iraytek-448_pixels0.png",
+    "fold": 1,
+    "group": "3595094da789"
+  },
+  {
+    "id": "iraytek-45",
+    "image": "iraytek-45.png",
+    "mask": "iraytek-45_pixels0.png",
+    "fold": 0,
+    "group": "b118b49232f8"
+  },
+  {
+    "id": "iraytek-451",
+    "image": "iraytek-451.png",
+    "mask": "iraytek-451_pixels0.png",
+    "fold": 3,
+    "group": "81c1bb6cf599"
+  },
+  {
+    "id": "iraytek-455",
+    "image": "iraytek-455.png",
+    "mask": "iraytek-455_pixels0.png",
+    "fold": 3,
+    "group": "e0d77716ab3b"
+  },
+  {
+    "id": "iraytek-46",
+    "image": "iraytek-46.png",
+    "mask": "iraytek-46_pixels0.png",
+    "fold": 3,
+    "group": "ef61adfd55bb"
+  },
+  {
+    "id": "iraytek-47",
+    "image": "iraytek-47.png",
+    "mask": "iraytek-47_pixels0.png",
+    "fold": 4,
+    "group": "56a8f812b012"
+  },
+  {
+    "id": "iraytek-48",
+    "image": "iraytek-48.png",
+    "mask": "iraytek-48_pixels0.png",
+    "fold": 3,
+    "group": "f67bdc0e46e4"
+  },
+  {
+    "id": "iraytek-49",
+    "image": "iraytek-49.png",
+    "mask": "iraytek-49_pixels0.png",
+    "fold": 3,
+    "group": "bbc44c6e95e8"
+  },
+  {
+    "id": "iraytek-5",
+    "image": "iraytek-5.png",
+    "mask": "iraytek-5_pixels0.png",
+    "fold": 1,
+    "group": "797007ed4a26"
+  },
+  {
+    "id": "iraytek-50",
+    "image": "iraytek-50.png",
+    "mask": "iraytek-50_pixels0.png",
+    "fold": 3,
+    "group": "493a71f41bff"
+  },
+  {
+    "id": "iraytek-51",
+    "image": "iraytek-51.png",
+    "mask": "iraytek-51_pixels0.png",
+    "fold": 1,
+    "group": "ef2e2b0dd56e"
+  },
+  {
+    "id": "iraytek-52",
+    "image": "iraytek-52.png",
+    "mask": "iraytek-52_pixels0.png",
+    "fold": 0,
+    "group": "5f2491ca9e22"
+  },
+  {
+    "id": "iraytek-53",
+    "image": "iraytek-53.png",
+    "mask": "iraytek-53_pixels0.png",
+    "fold": 0,
+    "group": "ce4b5752c353"
+  },
+  {
+    "id": "iraytek-54",
+    "image": "iraytek-54.png",
+    "mask": "iraytek-54_pixels0.png",
+    "fold": 2,
+    "group": "f2a07ef0fb34"
+  },
+  {
+    "id": "iraytek-55",
+    "image": "iraytek-55.png",
+    "mask": "iraytek-55_pixels0.png",
+    "fold": 4,
+    "group": "646aefc7d2f4"
+  },
+  {
+    "id": "iraytek-56",
+    "image": "iraytek-56.png",
+    "mask": "iraytek-56_pixels0.png",
+    "fold": 4,
+    "group": "08af7a8069e9"
+  },
+  {
+    "id": "iraytek-57",
+    "image": "iraytek-57.png",
+    "mask": "iraytek-57_pixels0.png",
+    "fold": 2,
+    "group": "84870931d1e8"
+  },
+  {
+    "id": "iraytek-58",
+    "image": "iraytek-58.png",
+    "mask": "iraytek-58_pixels0.png",
+    "fold": 2,
+    "group": "70d707d0d4fe"
+  },
+  {
+    "id": "iraytek-59",
+    "image": "iraytek-59.png",
+    "mask": "iraytek-59_pixels0.png",
+    "fold": 1,
+    "group": "695f3f00d7f8"
+  },
+  {
+    "id": "iraytek-60",
+    "image": "iraytek-60.png",
+    "mask": "iraytek-60_pixels0.png",
+    "fold": 3,
+    "group": "f3018c969b52"
+  },
+  {
+    "id": "iraytek-61",
+    "image": "iraytek-61.png",
+    "mask": "iraytek-61_pixels0.png",
+    "fold": 0,
+    "group": "8a3f039ef0db"
+  },
+  {
+    "id": "iraytek-62",
+    "image": "iraytek-62.png",
+    "mask": "iraytek-62_pixels0.png",
+    "fold": 1,
+    "group": "becfd8d91104"
+  },
+  {
+    "id": "iraytek-63",
+    "image": "iraytek-63.png",
+    "mask": "iraytek-63_pixels0.png",
+    "fold": 4,
+    "group": "5640f8678f8f"
+  },
+  {
+    "id": "iraytek-64",
+    "image": "iraytek-64.png",
+    "mask": "iraytek-64_pixels0.png",
+    "fold": 3,
+    "group": "21e944b18670"
+  },
+  {
+    "id": "iraytek-65",
+    "image": "iraytek-65.png",
+    "mask": "iraytek-65_pixels0.png",
+    "fold": 1,
+    "group": "ae9911ae552d"
+  },
+  {
+    "id": "iraytek-66",
+    "image": "iraytek-66.png",
+    "mask": "iraytek-66_pixels0.png",
+    "fold": 4,
+    "group": "8293e2ffd0df"
+  },
+  {
+    "id": "iraytek-68",
+    "image": "iraytek-68.png",
+    "mask": "iraytek-68_pixels0.png",
+    "fold": 1,
+    "group": "3b2c2c0090cf"
+  },
+  {
+    "id": "iraytek-69",
+    "image": "iraytek-69.png",
+    "mask": "iraytek-69_pixels0.png",
+    "fold": 3,
+    "group": "4e975dcdf8a2"
+  },
+  {
+    "id": "iraytek-71",
+    "image": "iraytek-71.png",
+    "mask": "iraytek-71_pixels0.png",
+    "fold": 1,
+    "group": "a0476c4819a2"
+  },
+  {
+    "id": "iraytek-72",
+    "image": "iraytek-72.png",
+    "mask": "iraytek-72_pixels0.png",
+    "fold": 3,
+    "group": "51c5eb70cfd7"
+  },
+  {
+    "id": "iraytek-73",
+    "image": "iraytek-73.png",
+    "mask": "iraytek-73_pixels0.png",
+    "fold": 0,
+    "group": "34928e8760cb"
+  },
+  {
+    "id": "iraytek-74",
+    "image": "iraytek-74.png",
+    "mask": "iraytek-74_pixels0.png",
+    "fold": 2,
+    "group": "42ba4575b0a7"
+  },
+  {
+    "id": "iraytek-75",
+    "image": "iraytek-75.png",
+    "mask": "iraytek-75_pixels0.png",
+    "fold": 2,
+    "group": "6aa03b04010b"
+  },
+  {
+    "id": "iraytek-76",
+    "image": "iraytek-76.png",
+    "mask": "iraytek-76_pixels0.png",
+    "fold": 3,
+    "group": "f8c29f53f8be"
+  },
+  {
+    "id": "iraytek-77",
+    "image": "iraytek-77.png",
+    "mask": "iraytek-77_pixels0.png",
+    "fold": 3,
+    "group": "c7b1c3a28aae"
+  },
+  {
+    "id": "iraytek-78",
+    "image": "iraytek-78.png",
+    "mask": "iraytek-78_pixels0.png",
+    "fold": 0,
+    "group": "c11e6791cfb2"
+  },
+  {
+    "id": "iraytek-79",
+    "image": "iraytek-79.png",
+    "mask": "iraytek-79_pixels0.png",
+    "fold": 3,
+    "group": "8d254fcd748b"
+  },
+  {
+    "id": "iraytek-8",
+    "image": "iraytek-8.png",
+    "mask": "iraytek-8_pixels0.png",
+    "fold": 2,
+    "group": "ece16c736399"
+  },
+  {
+    "id": "iraytek-81",
+    "image": "iraytek-81.png",
+    "mask": "iraytek-81_pixels0.png",
+    "fold": 1,
+    "group": "68afd7cc6efa"
+  },
+  {
+    "id": "iraytek-82",
+    "image": "iraytek-82.png",
+    "mask": "iraytek-82_pixels0.png",
+    "fold": 0,
+    "group": "d74821cbbcef"
+  },
+  {
+    "id": "iraytek-83",
+    "image": "iraytek-83.png",
+    "mask": "iraytek-83_pixels0.png",
+    "fold": 3,
+    "group": "799aa7ca8b1e"
+  },
+  {
+    "id": "iraytek-84",
+    "image": "iraytek-84.png",
+    "mask": "iraytek-84_pixels0.png",
+    "fold": 4,
+    "group": "dfaec868b1ee"
+  },
+  {
+    "id": "iraytek-85",
+    "image": "iraytek-85.png",
+    "mask": "iraytek-85_pixels0.png",
+    "fold": 3,
+    "group": "a610f72da3e8"
+  },
+  {
+    "id": "iraytek-86",
+    "image": "iraytek-86.png",
+    "mask": "iraytek-86_pixels0.png",
+    "fold": 1,
+    "group": "52a3f0461990"
+  },
+  {
+    "id": "iraytek-87",
+    "image": "iraytek-87.png",
+    "mask": "iraytek-87_pixels0.png",
+    "fold": 2,
+    "group": "7dd030afb6f5"
+  },
+  {
+    "id": "iraytek-88",
+    "image": "iraytek-88.png",
+    "mask": "iraytek-88_pixels0.png",
+    "fold": 3,
+    "group": "dc1cb7d3c74e"
+  },
+  {
+    "id": "iraytek-89",
+    "image": "iraytek-89.png",
+    "mask": "iraytek-89_pixels0.png",
+    "fold": 4,
+    "group": "bd4f3e44102f"
+  },
+  {
+    "id": "iraytek-90",
+    "image": "iraytek-90.png",
+    "mask": "iraytek-90_pixels0.png",
+    "fold": 1,
+    "group": "5c48cf646b8e"
+  },
+  {
+    "id": "iraytek-91",
+    "image": "iraytek-91.png",
+    "mask": "iraytek-91_pixels0.png",
+    "fold": 2,
+    "group": "b60dd97ddfb8"
+  },
+  {
+    "id": "iraytek-93",
+    "image": "iraytek-93.png",
+    "mask": "iraytek-93_pixels0.png",
+    "fold": 4,
+    "group": "384ff89a9b1e"
+  },
+  {
+    "id": "iraytek-94",
+    "image": "iraytek-94.png",
+    "mask": "iraytek-94_pixels0.png",
+    "fold": 0,
+    "group": "5fdd8bb4051d"
+  },
+  {
+    "id": "iraytek-95",
+    "image": "iraytek-95.png",
+    "mask": "iraytek-95_pixels0.png",
+    "fold": 0,
+    "group": "f37695c4d54d"
+  },
+  {
+    "id": "iraytek-96",
+    "image": "iraytek-96.png",
+    "mask": "iraytek-96_pixels0.png",
+    "fold": 1,
+    "group": "64f8b49c6895"
+  },
+  {
+    "id": "iraytek-97",
+    "image": "iraytek-97.png",
+    "mask": "iraytek-97_pixels0.png",
+    "fold": 0,
+    "group": "b9008a224aec"
+  },
+  {
+    "id": "iraytek-98",
+    "image": "iraytek-98.png",
+    "mask": "iraytek-98_pixels0.png",
+    "fold": 2,
+    "group": "8f0d7836df2d"
+  },
+  {
+    "id": "iraytek-99",
+    "image": "iraytek-99.png",
+    "mask": "iraytek-99_pixels0.png",
+    "fold": 4,
+    "group": "9b2cca7859f8"
+  },
+  {
+    "id": "Misc_123",
+    "image": "Misc_123.png",
+    "mask": "Misc_123_pixels0.png",
+    "fold": 1,
+    "group": "ce9453271b6b"
+  },
+  {
+    "id": "Misc_136",
+    "image": "Misc_136.png",
+    "mask": "Misc_136_pixels0.png",
+    "fold": 4,
+    "group": "0c293adfd92e"
+  },
+  {
+    "id": "Misc_16",
+    "image": "Misc_16.png",
+    "mask": "Misc_16_pixels0.png",
+    "fold": 1,
+    "group": "8ca14abe19ae"
+  },
+  {
+    "id": "Misc_18",
+    "image": "Misc_18.png",
+    "mask": "Misc_18_pixels0.png",
+    "fold": 3,
+    "group": "7c64ac2c51d1"
+  },
+  {
+    "id": "Misc_24",
+    "image": "Misc_24.png",
+    "mask": "Misc_24_pixels0.png",
+    "fold": 2,
+    "group": "b43e20888d19"
+  },
+  {
+    "id": "Misc_25",
+    "image": "Misc_25.png",
+    "mask": "Misc_25_pixels0.png",
+    "fold": 1,
+    "group": "af63090074f1"
+  },
+  {
+    "id": "Misc_265",
+    "image": "Misc_265.png",
+    "mask": "Misc_265_pixels0.png",
+    "fold": 2,
+    "group": "fd52803b0d5d"
+  },
+  {
+    "id": "Misc_287",
+    "image": "Misc_287.png",
+    "mask": "Misc_287_pixels0.png",
+    "fold": 2,
+    "group": "41e98d605e2e"
+  },
+  {
+    "id": "Misc_297",
+    "image": "Misc_297.png",
+    "mask": "Misc_297_pixels0.png",
+    "fold": 4,
+    "group": "584173ed01d6"
+  },
+  {
+    "id": "Misc_327",
+    "image": "Misc_327.png",
+    "mask": "Misc_327_pixels0.png",
+    "fold": 1,
+    "group": "f9f700a9ac13"
+  },
+  {
+    "id": "Misc_329",
+    "image": "Misc_329.png",
+    "mask": "Misc_329_pixels0.png",
+    "fold": 1,
+    "group": "01c9e77edcbc"
+  },
+  {
+    "id": "Misc_414",
+    "image": "Misc_414.png",
+    "mask": "Misc_414_pixels0.png",
+    "fold": 0,
+    "group": "bd6e26bc4c14"
+  },
+  {
+    "id": "Misc_415",
+    "image": "Misc_415.png",
+    "mask": "Misc_415_pixels0.png",
+    "fold": 3,
+    "group": "b7f07593af29"
+  },
+  {
+    "id": "Misc_44",
+    "image": "Misc_44.png",
+    "mask": "Misc_44_pixels0.png",
+    "fold": 4,
+    "group": "b4b2bd0d96b3"
+  },
+  {
+    "id": "Misc_47",
+    "image": "Misc_47.png",
+    "mask": "Misc_47_pixels0.png",
+    "fold": 0,
+    "group": "a6ada1f606fe"
+  },
+  {
+    "id": "Misc_49",
+    "image": "Misc_49.png",
+    "mask": "Misc_49_pixels0.png",
+    "fold": 1,
+    "group": "1b0bb2b07ea5"
+  },
+  {
+    "id": "Misc_56",
+    "image": "Misc_56.png",
+    "mask": "Misc_56_pixels0.png",
+    "fold": 1,
+    "group": "2afc7ad13e24"
+  },
+  {
+    "id": "Misc_60",
+    "image": "Misc_60.png",
+    "mask": "Misc_60_pixels0.png",
+    "fold": 0,
+    "group": "f1e7ee6e6b82"
+  },
+  {
+    "id": "Misc_61",
+    "image": "Misc_61.png",
+    "mask": "Misc_61_pixels0.png",
+    "fold": 3,
+    "group": "4b1ea7af3e6c"
+  },
+  {
+    "id": "Misc_74",
+    "image": "Misc_74.png",
+    "mask": "Misc_74_pixels0.png",
+    "fold": 1,
+    "group": "4a2cd217ab69"
+  },
+  {
+    "id": "Misc_78",
+    "image": "Misc_78.png",
+    "mask": "Misc_78_pixels0.png",
+    "fold": 2,
+    "group": "3247b4ee2094"
+  },
+  {
+    "id": "Misc_80",
+    "image": "Misc_80.png",
+    "mask": "Misc_80_pixels0.png",
+    "fold": 2,
+    "group": "cbc7768744f1"
+  },
+  {
+    "id": "Misc_85",
+    "image": "Misc_85.png",
+    "mask": "Misc_85_pixels0.png",
+    "fold": 0,
+    "group": "10292e87e5d6"
+  },
+  {
+    "id": "other-10",
+    "image": "other-10.png",
+    "mask": "other-10_pixels0.png",
+    "fold": 3,
+    "group": "78418d5cd616"
+  },
+  {
+    "id": "other-11",
+    "image": "other-11.png",
+    "mask": "other-11_pixels0.png",
+    "fold": 4,
+    "group": "59aa38520c52"
+  },
+  {
+    "id": "other-12",
+    "image": "other-12.png",
+    "mask": "other-12_pixels0.png",
+    "fold": 4,
+    "group": "b661773688da"
+  },
+  {
+    "id": "other-13",
+    "image": "other-13.png",
+    "mask": "other-13_pixels0.png",
+    "fold": 4,
+    "group": "f85a11167efa"
+  },
+  {
+    "id": "other-17",
+    "image": "other-17.png",
+    "mask": "other-17_pixels0.png",
+    "fold": 2,
+    "group": "a7523430b05d"
+  },
+  {
+    "id": "other-4",
+    "image": "other-4.png",
+    "mask": "other-4_pixels0.png",
+    "fold": 4,
+    "group": "fcab9ae9069d"
+  },
+  {
+    "id": "other-7",
+    "image": "other-7.png",
+    "mask": "other-7_pixels0.png",
+    "fold": 0,
+    "group": "740c2d9f7bda"
+  },
+  {
+    "id": "S1_1",
+    "image": "S1_1.png",
+    "mask": "S1_1_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_12",
+    "image": "S1_12.png",
+    "mask": "S1_12_pixels0.png",
+    "fold": 3,
+    "group": "4d85960607e8"
+  },
+  {
+    "id": "S1_2",
+    "image": "S1_2.png",
+    "mask": "S1_2_pixels0.png",
+    "fold": 1,
+    "group": "a3d096c17300"
+  },
+  {
+    "id": "S1_20",
+    "image": "S1_20.png",
+    "mask": "S1_20_pixels0.png",
+    "fold": 4,
+    "group": "8813e5d378cb"
+  },
+  {
+    "id": "S1_24",
+    "image": "S1_24.png",
+    "mask": "S1_24_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_25",
+    "image": "S1_25.png",
+    "mask": "S1_25_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_32",
+    "image": "S1_32.png",
+    "mask": "S1_32_pixels0.png",
+    "fold": 4,
+    "group": "89cb6fe9a970"
+  },
+  {
+    "id": "S1_33",
+    "image": "S1_33.png",
+    "mask": "S1_33_pixels0.png",
+    "fold": 4,
+    "group": "b5eef6854736"
+  },
+  {
+    "id": "S1_38",
+    "image": "S1_38.png",
+    "mask": "S1_38_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_41",
+    "image": "S1_41.png",
+    "mask": "S1_41_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_44",
+    "image": "S1_44.png",
+    "mask": "S1_44_pixels0.png",
+    "fold": 2,
+    "group": "36b97f5bf09c"
+  },
+  {
+    "id": "S1_47",
+    "image": "S1_47.png",
+    "mask": "S1_47_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_48",
+    "image": "S1_48.png",
+    "mask": "S1_48_pixels0.png",
+    "fold": 4,
+    "group": "4fce32c1b1cc"
+  },
+  {
+    "id": "S1_50",
+    "image": "S1_50.png",
+    "mask": "S1_50_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S1_51",
+    "image": "S1_51.png",
+    "mask": "S1_51_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S20210303_S10_48",
+    "image": "S20210303_S10_48.png",
+    "mask": "S20210303_S10_48_pixels0.png",
+    "fold": 1,
+    "group": "7b4cf3b06e67"
+  },
+  {
+    "id": "S20210303_S4_25",
+    "image": "S20210303_S4_25.png",
+    "mask": "S20210303_S4_25_pixels0.png",
+    "fold": 2,
+    "group": "ef127aeafc80"
+  },
+  {
+    "id": "S20210303_S7_1",
+    "image": "S20210303_S7_1.png",
+    "mask": "S20210303_S7_1_pixels0.png",
+    "fold": 4,
+    "group": "f0fca81d2cca"
+  },
+  {
+    "id": "S20210303_S8_28",
+    "image": "S20210303_S8_28.png",
+    "mask": "S20210303_S8_28_pixels0.png",
+    "fold": 3,
+    "group": "3f5da2f18329"
+  },
+  {
+    "id": "S20210303_S9_1",
+    "image": "S20210303_S9_1.png",
+    "mask": "S20210303_S9_1_pixels0.png",
+    "fold": 2,
+    "group": "dd0d580d09fc"
+  },
+  {
+    "id": "S20210621_S4_84",
+    "image": "S20210621_S4_84.png",
+    "mask": "S20210621_S4_84_pixels0.png",
+    "fold": 3,
+    "group": "152217647aad"
+  },
+  {
+    "id": "S20210621_S4_88",
+    "image": "S20210621_S4_88.png",
+    "mask": "S20210621_S4_88_pixels0.png",
+    "fold": 4,
+    "group": "4ae4a43e9102"
+  },
+  {
+    "id": "S2_1",
+    "image": "S2_1.png",
+    "mask": "S2_1_pixels0.png",
+    "fold": 2,
+    "group": "50bfb985cf0a"
+  },
+  {
+    "id": "S2_11",
+    "image": "S2_11.png",
+    "mask": "S2_11_pixels0.png",
+    "fold": 4,
+    "group": "25bd3149889b"
+  },
+  {
+    "id": "S2_13",
+    "image": "S2_13.png",
+    "mask": "S2_13_pixels0.png",
+    "fold": 1,
+    "group": "897e95978d29"
+  },
+  {
+    "id": "S2_15",
+    "image": "S2_15.png",
+    "mask": "S2_15_pixels0.png",
+    "fold": 1,
+    "group": "ec4886bc0070"
+  },
+  {
+    "id": "S2_16",
+    "image": "S2_16.png",
+    "mask": "S2_16_pixels0.png",
+    "fold": 2,
+    "group": "b5dfd3aef1de"
+  },
+  {
+    "id": "S2_19",
+    "image": "S2_19.png",
+    "mask": "S2_19_pixels0.png",
+    "fold": 1,
+    "group": "9740142b489b"
+  },
+  {
+    "id": "S2_20",
+    "image": "S2_20.png",
+    "mask": "S2_20_pixels0.png",
+    "fold": 0,
+    "group": "3a7ac1fb87ea"
+  },
+  {
+    "id": "S2_21",
+    "image": "S2_21.png",
+    "mask": "S2_21_pixels0.png",
+    "fold": 2,
+    "group": "288a3f5b1a11"
+  },
+  {
+    "id": "S2_23",
+    "image": "S2_23.png",
+    "mask": "S2_23_pixels0.png",
+    "fold": 1,
+    "group": "22ee956c61bf"
+  },
+  {
+    "id": "S2_25",
+    "image": "S2_25.png",
+    "mask": "S2_25_pixels0.png",
+    "fold": 1,
+    "group": "e78865d14779"
+  },
+  {
+    "id": "S2_26",
+    "image": "S2_26.png",
+    "mask": "S2_26_pixels0.png",
+    "fold": 3,
+    "group": "551448c83f08"
+  },
+  {
+    "id": "S2_27",
+    "image": "S2_27.png",
+    "mask": "S2_27_pixels0.png",
+    "fold": 3,
+    "group": "2f5e84656a91"
+  },
+  {
+    "id": "S2_30",
+    "image": "S2_30.png",
+    "mask": "S2_30_pixels0.png",
+    "fold": 4,
+    "group": "920775c525a7"
+  },
+  {
+    "id": "S2_35",
+    "image": "S2_35.png",
+    "mask": "S2_35_pixels0.png",
+    "fold": 0,
+    "group": "e4a96a542a19"
+  },
+  {
+    "id": "S2_37",
+    "image": "S2_37.png",
+    "mask": "S2_37_pixels0.png",
+    "fold": 3,
+    "group": "7c2735d2b7aa"
+  },
+  {
+    "id": "S2_38",
+    "image": "S2_38.png",
+    "mask": "S2_38_pixels0.png",
+    "fold": 3,
+    "group": "04c1e654b9e4"
+  },
+  {
+    "id": "S2_39",
+    "image": "S2_39.png",
+    "mask": "S2_39_pixels0.png",
+    "fold": 4,
+    "group": "45b7cdf87260"
+  },
+  {
+    "id": "S2_41",
+    "image": "S2_41.png",
+    "mask": "S2_41_pixels0.png",
+    "fold": 1,
+    "group": "6d3121e20374"
+  },
+  {
+    "id": "S2_42",
+    "image": "S2_42.png",
+    "mask": "S2_42_pixels0.png",
+    "fold": 3,
+    "group": "32183db60e7d"
+  },
+  {
+    "id": "S2_45",
+    "image": "S2_45.png",
+    "mask": "S2_45_pixels0.png",
+    "fold": 2,
+    "group": "18e3c9945eb2"
+  },
+  {
+    "id": "S2_46",
+    "image": "S2_46.png",
+    "mask": "S2_46_pixels0.png",
+    "fold": 2,
+    "group": "a4517c84b356"
+  },
+  {
+    "id": "S2_47",
+    "image": "S2_47.png",
+    "mask": "S2_47_pixels0.png",
+    "fold": 0,
+    "group": "36da107f004b"
+  },
+  {
+    "id": "S2_5",
+    "image": "S2_5.png",
+    "mask": "S2_5_pixels0.png",
+    "fold": 1,
+    "group": "9f6b2fdf0b93"
+  },
+  {
+    "id": "S2_52",
+    "image": "S2_52.png",
+    "mask": "S2_52_pixels0.png",
+    "fold": 3,
+    "group": "e028d32259db"
+  },
+  {
+    "id": "S2_6",
+    "image": "S2_6.png",
+    "mask": "S2_6_pixels0.png",
+    "fold": 1,
+    "group": "fa2c40b4a79d"
+  },
+  {
+    "id": "S2_8",
+    "image": "S2_8.png",
+    "mask": "S2_8_pixels0.png",
+    "fold": 0,
+    "group": "0e80cbc8c339"
+  },
+  {
+    "id": "S2_9",
+    "image": "S2_9.png",
+    "mask": "S2_9_pixels0.png",
+    "fold": 2,
+    "group": "b388ec7934f7"
+  },
+  {
+    "id": "S3_1",
+    "image": "S3_1.png",
+    "mask": "S3_1_pixels0.png",
+    "fold": 4,
+    "group": "f4db9348d35e"
+  },
+  {
+    "id": "S3_21",
+    "image": "S3_21.png",
+    "mask": "S3_21_pixels0.png",
+    "fold": 4,
+    "group": "71a0baf14c32"
+  },
+  {
+    "id": "S3_22",
+    "image": "S3_22.png",
+    "mask": "S3_22_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S3_23",
+    "image": "S3_23.png",
+    "mask": "S3_23_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S3_24",
+    "image": "S3_24.png",
+    "mask": "S3_24_pixels0.png",
+    "fold": 4,
+    "group": "4fce32c1b1cc"
+  },
+  {
+    "id": "S3_26",
+    "image": "S3_26.png",
+    "mask": "S3_26_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S3_6",
+    "image": "S3_6.png",
+    "mask": "S3_6_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S3_7",
+    "image": "S3_7.png",
+    "mask": "S3_7_pixels0.png",
+    "fold": 4,
+    "group": "89cb6fe9a970"
+  },
+  {
+    "id": "S4_1",
+    "image": "S4_1.png",
+    "mask": "S4_1_pixels0.png",
+    "fold": 2,
+    "group": "61400ef78d64"
+  },
+  {
+    "id": "S4_10",
+    "image": "S4_10.png",
+    "mask": "S4_10_pixels0.png",
+    "fold": 0,
+    "group": "a1b7f143488f"
+  },
+  {
+    "id": "S4_11",
+    "image": "S4_11.png",
+    "mask": "S4_11_pixels0.png",
+    "fold": 2,
+    "group": "c993ed81290b"
+  },
+  {
+    "id": "S4_12",
+    "image": "S4_12.png",
+    "mask": "S4_12_pixels0.png",
+    "fold": 4,
+    "group": "dbb23f6ffc83"
+  },
+  {
+    "id": "S4_13",
+    "image": "S4_13.png",
+    "mask": "S4_13_pixels0.png",
+    "fold": 1,
+    "group": "89d1ffc9c691"
+  },
+  {
+    "id": "S4_14",
+    "image": "S4_14.png",
+    "mask": "S4_14_pixels0.png",
+    "fold": 2,
+    "group": "7d9abb2ee087"
+  },
+  {
+    "id": "S4_15",
+    "image": "S4_15.png",
+    "mask": "S4_15_pixels0.png",
+    "fold": 1,
+    "group": "7bb0bb5be1cf"
+  },
+  {
+    "id": "S4_16",
+    "image": "S4_16.png",
+    "mask": "S4_16_pixels0.png",
+    "fold": 4,
+    "group": "ff311af9a0be"
+  },
+  {
+    "id": "S4_18",
+    "image": "S4_18.png",
+    "mask": "S4_18_pixels0.png",
+    "fold": 0,
+    "group": "6c07a38e54ad"
+  },
+  {
+    "id": "S4_19",
+    "image": "S4_19.png",
+    "mask": "S4_19_pixels0.png",
+    "fold": 3,
+    "group": "f24561bec97d"
+  },
+  {
+    "id": "S4_2",
+    "image": "S4_2.png",
+    "mask": "S4_2_pixels0.png",
+    "fold": 3,
+    "group": "3a5349c7f5d1"
+  },
+  {
+    "id": "S4_21",
+    "image": "S4_21.png",
+    "mask": "S4_21_pixels0.png",
+    "fold": 0,
+    "group": "566df299d3fe"
+  },
+  {
+    "id": "S4_23",
+    "image": "S4_23.png",
+    "mask": "S4_23_pixels0.png",
+    "fold": 3,
+    "group": "1f141ef4c69f"
+  },
+  {
+    "id": "S4_24",
+    "image": "S4_24.png",
+    "mask": "S4_24_pixels0.png",
+    "fold": 0,
+    "group": "366a2e6b1c3b"
+  },
+  {
+    "id": "S4_25",
+    "image": "S4_25.png",
+    "mask": "S4_25_pixels0.png",
+    "fold": 0,
+    "group": "223613da58fe"
+  },
+  {
+    "id": "S4_26",
+    "image": "S4_26.png",
+    "mask": "S4_26_pixels0.png",
+    "fold": 1,
+    "group": "9f5e6f0a00a4"
+  },
+  {
+    "id": "S4_27",
+    "image": "S4_27.png",
+    "mask": "S4_27_pixels0.png",
+    "fold": 2,
+    "group": "5fcdc3e4c1f9"
+  },
+  {
+    "id": "S4_28",
+    "image": "S4_28.png",
+    "mask": "S4_28_pixels0.png",
+    "fold": 3,
+    "group": "d6748c2002ac"
+  },
+  {
+    "id": "S4_3",
+    "image": "S4_3.png",
+    "mask": "S4_3_pixels0.png",
+    "fold": 3,
+    "group": "34de5da60b4a"
+  },
+  {
+    "id": "S4_30",
+    "image": "S4_30.png",
+    "mask": "S4_30_pixels0.png",
+    "fold": 2,
+    "group": "1118059c4810"
+  },
+  {
+    "id": "S4_31",
+    "image": "S4_31.png",
+    "mask": "S4_31_pixels0.png",
+    "fold": 1,
+    "group": "d5db1420d5af"
+  },
+  {
+    "id": "S4_33",
+    "image": "S4_33.png",
+    "mask": "S4_33_pixels0.png",
+    "fold": 0,
+    "group": "8d4c325f90c3"
+  },
+  {
+    "id": "S4_36",
+    "image": "S4_36.png",
+    "mask": "S4_36_pixels0.png",
+    "fold": 2,
+    "group": "eb0217ea9d23"
+  },
+  {
+    "id": "S4_38",
+    "image": "S4_38.png",
+    "mask": "S4_38_pixels0.png",
+    "fold": 3,
+    "group": "e986d0666e69"
+  },
+  {
+    "id": "S4_39",
+    "image": "S4_39.png",
+    "mask": "S4_39_pixels0.png",
+    "fold": 1,
+    "group": "557ce5d83606"
+  },
+  {
+    "id": "S4_4",
+    "image": "S4_4.png",
+    "mask": "S4_4_pixels0.png",
+    "fold": 3,
+    "group": "397e6066c8a2"
+  },
+  {
+    "id": "S4_40",
+    "image": "S4_40.png",
+    "mask": "S4_40_pixels0.png",
+    "fold": 3,
+    "group": "83e516fb3fa8"
+  },
+  {
+    "id": "S4_41",
+    "image": "S4_41.png",
+    "mask": "S4_41_pixels0.png",
+    "fold": 4,
+    "group": "7d21c6d5d6db"
+  },
+  {
+    "id": "S4_42",
+    "image": "S4_42.png",
+    "mask": "S4_42_pixels0.png",
+    "fold": 4,
+    "group": "447f42914d82"
+  },
+  {
+    "id": "S4_43",
+    "image": "S4_43.png",
+    "mask": "S4_43_pixels0.png",
+    "fold": 0,
+    "group": "75efde83185e"
+  },
+  {
+    "id": "S4_5",
+    "image": "S4_5.png",
+    "mask": "S4_5_pixels0.png",
+    "fold": 0,
+    "group": "ab43548aba81"
+  },
+  {
+    "id": "S4_6",
+    "image": "S4_6.png",
+    "mask": "S4_6_pixels0.png",
+    "fold": 3,
+    "group": "9494862e43b0"
+  },
+  {
+    "id": "S4_7",
+    "image": "S4_7.png",
+    "mask": "S4_7_pixels0.png",
+    "fold": 0,
+    "group": "2aecf23c4878"
+  },
+  {
+    "id": "S4_8",
+    "image": "S4_8.png",
+    "mask": "S4_8_pixels0.png",
+    "fold": 1,
+    "group": "b1eb54476a94"
+  },
+  {
+    "id": "S4_9",
+    "image": "S4_9.png",
+    "mask": "S4_9_pixels0.png",
+    "fold": 1,
+    "group": "446531877864"
+  },
+  {
+    "id": "S5_2",
+    "image": "S5_2.png",
+    "mask": "S5_2_pixels0.png",
+    "fold": 4,
+    "group": "c498e06d48ba"
+  },
+  {
+    "id": "S6_1",
+    "image": "S6_1.png",
+    "mask": "S6_1_pixels0.png",
+    "fold": 0,
+    "group": "20d544b4451b"
+  },
+  {
+    "id": "S6_2",
+    "image": "S6_2.png",
+    "mask": "S6_2_pixels0.png",
+    "fold": 2,
+    "group": "517706847099"
+  },
+  {
+    "id": "S6_5",
+    "image": "S6_5.png",
+    "mask": "S6_5_pixels0.png",
+    "fold": 3,
+    "group": "323a088439e2"
+  },
+  {
+    "id": "S7_1",
+    "image": "S7_1.png",
+    "mask": "S7_1_pixels0.png",
+    "fold": 4,
+    "group": "6600e4930d8e"
+  },
+  {
+    "id": "S7_10",
+    "image": "S7_10.png",
+    "mask": "S7_10_pixels0.png",
+    "fold": 4,
+    "group": "a1e3e0a640bf"
+  },
+  {
+    "id": "S7_13",
+    "image": "S7_13.png",
+    "mask": "S7_13_pixels0.png",
+    "fold": 1,
+    "group": "59c2361bb137"
+  },
+  {
+    "id": "S7_15",
+    "image": "S7_15.png",
+    "mask": "S7_15_pixels0.png",
+    "fold": 4,
+    "group": "ec9bf81c69a2"
+  },
+  {
+    "id": "S7_2",
+    "image": "S7_2.png",
+    "mask": "S7_2_pixels0.png",
+    "fold": 2,
+    "group": "65a4b7059c58"
+  },
+  {
+    "id": "S7_20",
+    "image": "S7_20.png",
+    "mask": "S7_20_pixels0.png",
+    "fold": 2,
+    "group": "88906330a09f"
+  },
+  {
+    "id": "S7_21",
+    "image": "S7_21.png",
+    "mask": "S7_21_pixels0.png",
+    "fold": 3,
+    "group": "ff572287a88d"
+  },
+  {
+    "id": "S7_22",
+    "image": "S7_22.png",
+    "mask": "S7_22_pixels0.png",
+    "fold": 4,
+    "group": "d06b6741ff27"
+  },
+  {
+    "id": "S7_23",
+    "image": "S7_23.png",
+    "mask": "S7_23_pixels0.png",
+    "fold": 1,
+    "group": "003a29a47b20"
+  },
+  {
+    "id": "S7_24",
+    "image": "S7_24.png",
+    "mask": "S7_24_pixels0.png",
+    "fold": 3,
+    "group": "be6c15468155"
+  },
+  {
+    "id": "S7_25",
+    "image": "S7_25.png",
+    "mask": "S7_25_pixels0.png",
+    "fold": 1,
+    "group": "7066f6e07ab5"
+  },
+  {
+    "id": "S7_26",
+    "image": "S7_26.png",
+    "mask": "S7_26_pixels0.png",
+    "fold": 2,
+    "group": "5e0ca1c989af"
+  },
+  {
+    "id": "S7_27",
+    "image": "S7_27.png",
+    "mask": "S7_27_pixels0.png",
+    "fold": 3,
+    "group": "5cfacd06a4cf"
+  },
+  {
+    "id": "S7_28",
+    "image": "S7_28.png",
+    "mask": "S7_28_pixels0.png",
+    "fold": 4,
+    "group": "8e89a786ae13"
+  },
+  {
+    "id": "S7_30",
+    "image": "S7_30.png",
+    "mask": "S7_30_pixels0.png",
+    "fold": 2,
+    "group": "08533737fbf9"
+  },
+  {
+    "id": "S7_32",
+    "image": "S7_32.png",
+    "mask": "S7_32_pixels0.png",
+    "fold": 2,
+    "group": "21a9a62188ec"
+  },
+  {
+    "id": "S7_34",
+    "image": "S7_34.png",
+    "mask": "S7_34_pixels0.png",
+    "fold": 2,
+    "group": "055c26e6ee77"
+  },
+  {
+    "id": "S7_36",
+    "image": "S7_36.png",
+    "mask": "S7_36_pixels0.png",
+    "fold": 2,
+    "group": "ff660616e9f2"
+  },
+  {
+    "id": "S7_37",
+    "image": "S7_37.png",
+    "mask": "S7_37_pixels0.png",
+    "fold": 2,
+    "group": "89ac271b7ebc"
+  },
+  {
+    "id": "S7_43",
+    "image": "S7_43.png",
+    "mask": "S7_43_pixels0.png",
+    "fold": 0,
+    "group": "8da3faac95a4"
+  },
+  {
+    "id": "S7_45",
+    "image": "S7_45.png",
+    "mask": "S7_45_pixels0.png",
+    "fold": 4,
+    "group": "adff22941ad0"
+  },
+  {
+    "id": "S7_46",
+    "image": "S7_46.png",
+    "mask": "S7_46_pixels0.png",
+    "fold": 4,
+    "group": "79a0920263e4"
+  },
+  {
+    "id": "S7_47",
+    "image": "S7_47.png",
+    "mask": "S7_47_pixels0.png",
+    "fold": 4,
+    "group": "adff22941ad0"
+  },
+  {
+    "id": "S7_48",
+    "image": "S7_48.png",
+    "mask": "S7_48_pixels0.png",
+    "fold": 4,
+    "group": "79a0920263e4"
+  },
+  {
+    "id": "S7_49",
+    "image": "S7_49.png",
+    "mask": "S7_49_pixels0.png",
+    "fold": 2,
+    "group": "846afdbced9d"
+  },
+  {
+    "id": "S7_50",
+    "image": "S7_50.png",
+    "mask": "S7_50_pixels0.png",
+    "fold": 3,
+    "group": "4976836d5af5"
+  },
+  {
+    "id": "S7_51",
+    "image": "S7_51.png",
+    "mask": "S7_51_pixels0.png",
+    "fold": 0,
+    "group": "60a5f5ad2929"
+  },
+  {
+    "id": "S7_52",
+    "image": "S7_52.png",
+    "mask": "S7_52_pixels0.png",
+    "fold": 3,
+    "group": "4976836d5af5"
+  },
+  {
+    "id": "S7_53",
+    "image": "S7_53.png",
+    "mask": "S7_53_pixels0.png",
+    "fold": 0,
+    "group": "2d8cea650cbf"
+  },
+  {
+    "id": "S7_56",
+    "image": "S7_56.png",
+    "mask": "S7_56_pixels0.png",
+    "fold": 4,
+    "group": "dd89916a3346"
+  },
+  {
+    "id": "S7_57",
+    "image": "S7_57.png",
+    "mask": "S7_57_pixels0.png",
+    "fold": 0,
+    "group": "0e7c2f9cd38e"
+  },
+  {
+    "id": "S7_58",
+    "image": "S7_58.png",
+    "mask": "S7_58_pixels0.png",
+    "fold": 2,
+    "group": "cf18ec87be97"
+  },
+  {
+    "id": "S7_59",
+    "image": "S7_59.png",
+    "mask": "S7_59_pixels0.png",
+    "fold": 3,
+    "group": "fa03216a1f91"
+  },
+  {
+    "id": "S7_6",
+    "image": "S7_6.png",
+    "mask": "S7_6_pixels0.png",
+    "fold": 1,
+    "group": "1ea6cf52f8db"
+  },
+  {
+    "id": "S7_60",
+    "image": "S7_60.png",
+    "mask": "S7_60_pixels0.png",
+    "fold": 0,
+    "group": "b24e90bc16c2"
+  },
+  {
+    "id": "S7_62",
+    "image": "S7_62.png",
+    "mask": "S7_62_pixels0.png",
+    "fold": 1,
+    "group": "78ab62d04253"
+  },
+  {
+    "id": "S7_68",
+    "image": "S7_68.png",
+    "mask": "S7_68_pixels0.png",
+    "fold": 1,
+    "group": "0ff72e4508f6"
+  },
+  {
+    "id": "S7_7",
+    "image": "S7_7.png",
+    "mask": "S7_7_pixels0.png",
+    "fold": 2,
+    "group": "5d6915b6e68d"
+  },
+  {
+    "id": "S7_8",
+    "image": "S7_8.png",
+    "mask": "S7_8_pixels0.png",
+    "fold": 2,
+    "group": "a29217401a0b"
+  },
+  {
+    "id": "S7_9",
+    "image": "S7_9.png",
+    "mask": "S7_9_pixels0.png",
+    "fold": 1,
+    "group": "be3f43439ea2"
+  },
+  {
+    "id": "TH0517_1",
+    "image": "TH0517_1.png",
+    "mask": "TH0517_1_pixels0.png",
+    "fold": 2,
+    "group": "f66acb2790fe"
+  },
+  {
+    "id": "TH0517_10",
+    "image": "TH0517_10.png",
+    "mask": "TH0517_10_pixels0.png",
+    "fold": 0,
+    "group": "df9e25d50d9f"
+  },
+  {
+    "id": "TH0517_12",
+    "image": "TH0517_12.png",
+    "mask": "TH0517_12_pixels0.png",
+    "fold": 1,
+    "group": "84ded104ae0a"
+  },
+  {
+    "id": "TH0517_2",
+    "image": "TH0517_2.png",
+    "mask": "TH0517_2_pixels0.png",
+    "fold": 4,
+    "group": "2d3d2cefaf07"
+  },
+  {
+    "id": "TH0517_3",
+    "image": "TH0517_3.png",
+    "mask": "TH0517_3_pixels0.png",
+    "fold": 1,
+    "group": "c26cec79b5e9"
+  },
+  {
+    "id": "TH0517_4",
+    "image": "TH0517_4.png",
+    "mask": "TH0517_4_pixels0.png",
+    "fold": 0,
+    "group": "8e23f1a4cc31"
+  },
+  {
+    "id": "TH0517_7",
+    "image": "TH0517_7.png",
+    "mask": "TH0517_7_pixels0.png",
+    "fold": 1,
+    "group": "a612f5485b97"
+  },
+  {
+    "id": "TH0517_9",
+    "image": "TH0517_9.png",
+    "mask": "TH0517_9_pixels0.png",
+    "fold": 3,
+    "group": "4b01f99b8ba0"
+  },
+  {
+    "id": "TH_1",
+    "image": "TH_1.png",
+    "mask": "TH_1_pixels0.png",
+    "fold": 4,
+    "group": "608d5503758c"
+  },
+  {
+    "id": "TH_120",
+    "image": "TH_120.png",
+    "mask": "TH_120_pixels0.png",
+    "fold": 0,
+    "group": "be67e7621aed"
+  },
+  {
+    "id": "TH_140",
+    "image": "TH_140.png",
+    "mask": "TH_140_pixels0.png",
+    "fold": 1,
+    "group": "8e906cc1cbe2"
+  },
+  {
+    "id": "TH_180",
+    "image": "TH_180.png",
+    "mask": "TH_180_pixels0.png",
+    "fold": 2,
+    "group": "369717bf192f"
+  },
+  {
+    "id": "TH_190",
+    "image": "TH_190.png",
+    "mask": "TH_190_pixels0.png",
+    "fold": 0,
+    "group": "46784cd16fa0"
+  },
+  {
+    "id": "TH_2",
+    "image": "TH_2.png",
+    "mask": "TH_2_pixels0.png",
+    "fold": 4,
+    "group": "19f1d1b37dce"
+  },
+  {
+    "id": "TH_210",
+    "image": "TH_210.png",
+    "mask": "TH_210_pixels0.png",
+    "fold": 0,
+    "group": "1fdf914c7407"
+  },
+  {
+    "id": "TH_223",
+    "image": "TH_223.png",
+    "mask": "TH_223_pixels0.png",
+    "fold": 2,
+    "group": "ff89729981d1"
+  },
+  {
+    "id": "TH_3",
+    "image": "TH_3.png",
+    "mask": "TH_3_pixels0.png",
+    "fold": 4,
+    "group": "e4b2b5276188"
+  },
+  {
+    "id": "TH_6",
+    "image": "TH_6.png",
+    "mask": "TH_6_pixels0.png",
+    "fold": 4,
+    "group": "589d9e3afc19"
+  },
+  {
+    "id": "TH_8",
+    "image": "TH_8.png",
+    "mask": "TH_8_pixels0.png",
+    "fold": 2,
+    "group": "6fa105a5b367"
+  }
+]
